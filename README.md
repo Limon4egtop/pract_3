@@ -1,12 +1,16 @@
 # 1. Запуск панели администратора
+```
 cd admin-api
 npm install
 node server.js
+```
 
 # 2. Запуск сервера каталога
+```
 cd catalog-server
 npm install
 node server.js
+```
 
 
 
