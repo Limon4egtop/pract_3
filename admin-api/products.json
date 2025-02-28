@@ -46,6 +46,13 @@
     ]
   },
   {
-    "id": 6
+    "id": 6,
+    "name": "тест",
+    "description": "wdafesgrfbdg",
+    "price": 5000,
+    "categories": [
+      "weeawsr",
+      "dwefgrt"
+    ]
   }
 ]
